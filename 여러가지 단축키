@@ -1,0 +1,32 @@
+1.vs code 단축키
+    Ctrl + P = 파일이동
+    Ctrl + B = 탐색기 열고 닫기
+    Ctrl + J = 하단바 끄고 켜기
+    Ctrl + Shift + G = Git 사이드 바 열기
+    Ctrl + F2 = 일치하는 모든 단어 선택
+    Ctrl + shift + L = 일치하는 모든 단어 선택
+    Ctrl + D = 일치하는 단어 하나선택,단축키 반복입력시 일치하는 단어 추가적으로 선택
+    Ctrl + U = 여러개 선택된 단어들 중 마지막 하나를 취소
+    Ctrl + Enter = 커서가 위치한 밑줄에 한줄 추가
+    shift + Alt + 아래키 = 한줄 밑으로 복사
+    shift + Alt + 위키 = 한줄 위로 복사
+    alt + up = 커서가 위치한 문장을 한칸 윗줄로 옮김
+    alt + down = 커서가 위치한 문장을 한칸 아랫줄로 옮김
+
+    Ctrl + Shift + D = 디버그 보기
+    Ctrl + Shift + E = 탐색기 보기
+
+
+
+2.윈도우 익스플로러 단축키
+    Ctrl + E  = 검색
+    Ctrl + N  = 새 창
+    Ctrl + T  = 새 탭
+    Ctrl + W  = 탭 닫기
+    Ctrl + D  = 즐겨찾기 등록
+    Ctrl + -  = 글꼴크기 축소
+    Ctrl + Alt + tab = 탭이동
+    Alt  + D  = 주소창 입력 모드
+    Alt  + <- = 이전페이지
+    Alt  + -> = 다음페이지
+    
